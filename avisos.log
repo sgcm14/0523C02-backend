@@ -1,0 +1,24 @@
+[2024-05-08 20:57:34] [ INFO ] [ListaEnteros:22] La longitud de la lista es mayor a 5
+[2024-05-11 22:35:07] [ INFO ] [ListaEnteros:21] La longitud de la lista es mayor a 5
+[2024-05-11 22:35:07] [ INFO ] [ListaEnteros:21] La longitud de la lista es mayor a 5
+[2024-05-11 22:35:07] [ INFO ] [ListaEnteros:25] La longitud de la lista es mayor a 10
+[2024-05-11 22:35:07] [ ERROR] [ListaEnteros:15] La lista es igual a cero
+[2024-05-12 00:34:49] [ INFO ] [Cliente:19] Se insertaron 3 animales
+[2024-05-12 00:34:49] [ WARN ] [Cliente:29] advertencia se elimino el registro 1
+[2024-05-12 00:36:27] [ INFO ] [Cliente:19] Se insertaron 3 animales
+[2024-05-12 00:36:27] [ WARN ] [Cliente:29] advertencia se elimino el registro 1
+[2024-05-12 00:36:36] [ INFO ] [Cliente:19] Se insertaron 3 animales
+[2024-05-12 00:36:36] [ WARN ] [Cliente:29] advertencia se elimino el registro 1
+[2024-05-12 00:47:42] [ INFO ] [ListaEnteros:21] La longitud de la lista es mayor a 5
+[2024-05-12 00:47:42] [ INFO ] [ListaEnteros:36] El promedio es:3.5
+[2024-05-12 00:47:42] [ INFO ] [ListaEnteros:21] La longitud de la lista es mayor a 5
+[2024-05-12 00:47:42] [ INFO ] [ListaEnteros:25] La longitud de la lista es mayor a 10
+[2024-05-12 00:47:42] [ INFO ] [ListaEnteros:36] El promedio es:3.5
+[2024-05-12 00:47:42] [ ERROR] [ListaEnteros:15] La lista es igual a cero
+[2024-05-12 00:54:34] [ INFO ] [TestLog:8] Empezamos nuestro metodo MAIN
+[2024-05-12 00:54:34] [ ERROR] [TestLog:13] Error por dividir por cero 
+java.lang.ArithmeticException: / by zero
+	at Logs.Test.TestLog.main(TestLog.java:11)
+[2024-05-12 00:54:34] [ WARN ] [TestLog:15] Advertencia el metodo MAIN esta por finalizar
+[2024-05-12 00:54:34] [ DEBUG] [TestLog:16] Esto va a mostrarse solo si el infoLogger esta en DEBUG
+[2024-05-12 00:54:34] [ INFO ] [TestLog:17] Finalizamos el thread MAIN

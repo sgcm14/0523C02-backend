@@ -16,7 +16,7 @@ public class ProxyInternet implements IConexionInternet {
         if(!this.sitiosBloqueados.contains(url))
             this.internetService.conectarCon(url);
         else
-            System.out.println("Acceso denegado");
+            System.out.println("Acceso denegado a "+ url);
 
 
     }
