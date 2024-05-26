@@ -22,3 +22,58 @@ java.lang.ArithmeticException: / by zero
 [2024-05-12 00:54:34] [ WARN ] [TestLog:15] Advertencia el metodo MAIN esta por finalizar
 [2024-05-12 00:54:34] [ DEBUG] [TestLog:16] Esto va a mostrarse solo si el infoLogger esta en DEBUG
 [2024-05-12 00:54:34] [ INFO ] [TestLog:17] Finalizamos el thread MAIN
+[2024-05-12 13:02:39] [ INFO ] [Cliente:19] Se insertaron 3 animales
+[2024-05-12 13:02:39] [ WARN ] [Cliente:29] advertencia se elimino el registro 1
+[2024-05-13 22:16:37] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-13 22:16:37] [ INFO ] [MedicamentoDAOH2:23] conexion establecida
+[2024-05-13 22:16:37] [ WARN ] [MedicamentoDAOH2:33] medicamento guardado con exito
+[2024-05-13 22:32:36] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-13 22:32:36] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 22:32:36] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 22:32:36] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-13 22:42:37] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-13 22:42:37] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 22:42:37] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 22:42:37] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-13 22:42:37] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-13 22:44:56] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-13 22:44:56] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 22:44:56] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 22:44:56] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 22:44:56] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 22:44:56] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-13 22:44:56] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-13 22:45:01] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-13 22:45:01] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 22:45:01] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 22:45:01] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 22:45:01] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 22:45:01] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-13 22:45:01] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-19 22:46:43] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-19 22:46:43] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-19 22:46:43] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-19 22:46:43] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-19 22:46:43] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-19 22:46:43] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-19 22:46:43] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-19 22:54:23] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-19 22:54:24] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-19 22:54:24] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-19 22:54:24] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-19 22:55:10] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-19 22:56:18] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-19 23:01:29] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-19 23:01:29] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-19 23:01:29] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-19 23:01:29] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-19 23:01:29] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-19 23:01:29] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-19 23:01:29] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-25 23:08:33] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-25 23:08:34] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-25 23:08:34] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-25 23:08:34] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-25 23:08:34] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-25 23:08:34] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-25 23:08:34] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito

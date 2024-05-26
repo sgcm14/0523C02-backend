@@ -5,8 +5,7 @@ import java.sql.*;
 public class TestH2 {
     public static void main(String[] args) throws Exception {
         Class.forName("org.h2.Driver").newInstance();
-        Connection con = DriverManager.getConnection("jdbc:h2:"+
-                "./Database/my", "f", "myPassword");
+        Connection con = DriverManager.getConnection("jdbc:h2:~/my", "f", "myPassword");
         Statement stmt = con.createStatement();
 
         //Código para crear una tabla. Elimina la tabla si esta ya existe y la
